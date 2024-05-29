@@ -1,4 +1,4 @@
-this is forked from jekyll-theme-chirpy repository
+This is forked from jekyll-theme-chirpy repository
 
 <!-- markdownlint-disable-next-line -->
 <div align="center">
